@@ -76,7 +76,7 @@ const Header: React.FC<IProps> = ({ applyNewSettings, applicationState }) => {
               <Text fontWeight={"bold"} fontSize={"22"}>
                 Find The Pairs Game
               </Text>{" "}
-              <Image src={"./game-of-pairs/birds.png"} w={"5"} h={"5"} />
+              <Image src={"game-of-pairs/birds.png"} w={"5"} h={"5"} />
             </Flex>
           </HStack>
           <Flex alignItems={"center"}>
