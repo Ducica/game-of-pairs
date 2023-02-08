@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/game-of-pairs/static/css/main.4152c3d3.css",
-    "main.js": "/game-of-pairs/static/js/main.306078ad.js",
+    "main.js": "/game-of-pairs/static/js/main.8708dba4.js",
     "static/js/787.5b96eadd.chunk.js": "/game-of-pairs/static/js/787.5b96eadd.chunk.js",
     "index.html": "/game-of-pairs/index.html",
     "main.4152c3d3.css.map": "/game-of-pairs/static/css/main.4152c3d3.css.map",
-    "main.306078ad.js.map": "/game-of-pairs/static/js/main.306078ad.js.map",
+    "main.8708dba4.js.map": "/game-of-pairs/static/js/main.8708dba4.js.map",
     "787.5b96eadd.chunk.js.map": "/game-of-pairs/static/js/787.5b96eadd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.306078ad.js"
+    "static/js/main.8708dba4.js"
   ]
 }
