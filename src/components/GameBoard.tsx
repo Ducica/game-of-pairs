@@ -18,7 +18,7 @@ import CountdownTimer from "./CountdownTimer";
 import { getUniqueUrls } from "../utils/helperFunctions";
 import useLocalStorage from "use-local-storage";
 
-const cardBack = "/card.png";
+const cardBack = "./game-of-pairs/card.png";
 
 export interface ICard {
     turned: boolean;
