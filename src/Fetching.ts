@@ -72,7 +72,7 @@ export const lizard = async () => {
  *
  */
 export const shiba = async () => {
-  return getRequest("http://shibe.online/api/shibes").then(
+  return getRequest("https://shibe.online/api/shibes").then(
     (res) => res.data[0]
   );
 };
