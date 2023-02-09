@@ -1,3 +1,7 @@
+# Project description
+
+Classic find the pairs memory game. The game takes photos from several APIs. Every time you play the game the photos are different. There are options to choose the number of cards and also to play with a time limit for a bigger challenge. The game can be checked out here https://ducica.github.io/game-of-pairs/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
