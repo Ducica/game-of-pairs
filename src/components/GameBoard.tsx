@@ -46,7 +46,7 @@ export default function GameBoard() {
         isGameFinished: false,
         currentPick: [],
         cardData: [],
-        numberOfCards: 4,
+        numberOfCards: 12,
         gameDuration: 60,
         animal: "dog",
         moves: 0,
